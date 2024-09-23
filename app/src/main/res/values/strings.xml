@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">Durban First</string>
-    <string name="welcome_txt">Welcome to our student attendence system.
-        we are grateful you chose us!!! </string>
+    <string name="app_name">Safe Kids App</string>
+    <string name="welcome_txt">
+        Welcome to our student attendence system.
+        we are grateful you chose us!!!
+    </string>
 
     <string-array name="roles_array">
         <item>Student</item>

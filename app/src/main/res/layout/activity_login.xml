@@ -38,7 +38,7 @@
                 android:textColor="@color/DarkGreen"/>
 
             <Spinner
-                android:id="@+id/signup_role_spinner"
+                android:id="@+id/login_role_spinner"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginTop="40dp"
